@@ -1,12 +1,12 @@
 ﻿{
-    "versionCode":  6,
-    "versionName":  "1.0.5",
-    "tagName":  "v1.0.5",
-    "releaseTitle":  "AdSkip Pro v1.0.5 - Intelligent Ad Skipping \u0026 Autonomous Episode Unlocking",
-    "releaseNotes":  "* Fast-Forward \u0026 Skip Video Glyphs: Visual and node detection for ⏭, ▶|, ⏩ landscape video and end-card ads (e.g. Candy Crush)\n* Google Play Landscape Overlay Sheet: In-app overlay detection with automatic back-arrow click and instant back dismissal\n* Compact Circled Cross: Multi-scale visual stencil with r=5, 6px radii for high-density portrait interstitial ads (e.g. Oswaal AdMob)\n* Upgraded Trapped Ad Fallback: Staged precision top-right (~4s), top-left (~7-8s), and gentle back (~11s) taps across landscape \u0026 portrait orientations\n* Version bumped to v1.0.5 (Build 6)",
+    "versionCode":  7,
+    "versionName":  "1.0.6",
+    "tagName":  "v1.0.6",
+    "releaseTitle":  "AdSkip Pro v1.0.6 - Intelligent Ad Skipping \u0026 Autonomous Episode Unlocking",
+    "releaseNotes":  "* Fix Cancel Mis-Click: PocketFM Playing next ad in X countdown cards are strictly protected as transition screens; cancel is permanently blacklisted\n* Fix Top-Left Ad Dismissal: Gated fast-forward stencil to landscape orientation to eliminate false positives on portrait text, prioritized top-left circled cross badges in portrait, and added early top-left fallback taps at count 3\n* Enhanced Ad Surface Detection: ScreenClassifier now detects SurfaceView, TextureView, and bare corner buttons without normal PocketFM UI\n* Version bumped to v1.0.6 (Build 7)",
     "apkDownloadUrl":  "https://raw.githubusercontent.com/TusharTyagi-63/AdSkipper-App/main/AdSkipper-latest.apk",
     "apkFileName":  "AdSkipper-latest.apk",
-    "apkSizeBytes":  2055547,
-    "sha256":  "BC4399288EAB90473A44BE63911C9A888A6C2BB7657570E1ABC9146919EC41DC",
-    "publishedAt":  "2026-10-25T08:17:52Z"
+    "apkSizeBytes":  2055546,
+    "sha256":  "8442BFC94D969A571DF696DAB4D4F4A94090579C86D3A18AB4C79A0129D7BDC8",
+    "publishedAt":  "2026-10-25T09:22:31Z"
 }
