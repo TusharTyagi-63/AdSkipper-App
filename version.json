@@ -1,12 +1,12 @@
 ﻿{
-    "versionCode":  10,
-    "versionName":  "1.0.9",
-    "tagName":  "v1.0.9",
-    "releaseTitle":  "AdSkip Pro v1.0.9 - Intelligent Ad Skipping \u0026 Autonomous Episode Unlocking",
-    "releaseNotes":  "* Dual-Orientation Ad Screen Engines: Dedicated PortraitAdScreenComponent and LandscapeAdScreenComponent for vertical and rotated 2412x1080 ads.\n* Complete 5-Subcomponent Screen Partitioning: TopLeft, TopRight, CenterModal, BottomLeft, BottomRight mathematically partition 100% of the screen with zero gaps.\n* Dynamic Bounding-Box Regression: AdScreenExtentAnalyzer regresses active ad viewport (fullscreen, centered modal, bottom sheet) and normalizes coordinates.\n* Hybrid Gate \u0026 Multi-Feature ML Scoring: Hard shield gate protects ad bodies, video players, and CTAs (Install, Download) with infinite penalty, while 6-factor scoring ranks real skip buttons.\n* Adaptive Countdown Hold: Zero-touch protection during unskippable timers with perimeter-only micro-taps.",
+    "versionCode":  11,
+    "versionName":  "1.0.10",
+    "tagName":  "v1.0.10",
+    "releaseTitle":  "AdSkip Pro v1.0.10 - Intelligent Ad Skipping \u0026 Autonomous Episode Unlocking",
+    "releaseNotes":  "* Strict Package Quarantine: 100% isolation from phone launcher, app menu, settings, and other apps - never touches phone menus or opens Play Store.\n* Foreground Ad Prioritization: Video ads and banners take precedence over background episode list unlock triggers.\n* 0s Timer \u0026 Pill Fix: \u0027Reward in 0s\u0027 and \u0027Reward granted\u0027 pill buttons properly scored and dismissed.\n* Expanded Touch Boundaries: Buttons up to 450px supported for modern high-DPI displays.\n* Video Ad Patience Window: Extended trapped timeout to ~21.6s to allow full video playback.",
     "apkDownloadUrl":  "https://raw.githubusercontent.com/TusharTyagi-63/AdSkipper-App/main/AdSkipper-latest.apk",
     "apkFileName":  "AdSkipper-latest.apk",
-    "apkSizeBytes":  2071930,
-    "sha256":  "29EE71A51034CECF0D394C843C7B49124B839DD64C33A9F3326AFE0271CD61D5",
-    "publishedAt":  "2026-10-25T14:49:29Z"
+    "apkSizeBytes":  2071925,
+    "sha256":  "C46ACD0A39C5A0676A3B3AAAAB3E6C969055E47B244A0F5662519F6C58A65B11",
+    "publishedAt":  "2026-10-25T15:54:55Z"
 }
