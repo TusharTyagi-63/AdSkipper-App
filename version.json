@@ -1,12 +1,12 @@
 ﻿{
-    "versionCode":  4,
-    "versionName":  "1.0.3",
-    "tagName":  "v1.0.3",
-    "releaseTitle":  "AdSkip Pro v1.0.3 - Intelligent Ad Skipping \u0026 Autonomous Episode Unlocking",
-    "releaseNotes":  "* Fixed ad classification conflict where ads were misclassified as transition screens\n* Tightened unlock button regexes to prevent false matching inside video ads\n* Added 2.5s throttling to visual screenshot perception to prevent IPC crashes\n* Reduced stuck ad back-press fallback to 12s\n* Restored bare corner dismissal logic in node tree scanner\n* Added Chrome to target accessibility package filter",
+    "versionCode":  5,
+    "versionName":  "1.0.4",
+    "tagName":  "v1.0.4",
+    "releaseTitle":  "AdSkip Pro v1.0.4 - Intelligent Ad Skipping \u0026 Autonomous Episode Unlocking",
+    "releaseNotes":  "* Fixed dark \u0027✕\u0027 cross on circular badge ad dismissal (top-left quadrant)\n* Added top-left precision fallback tap at 7-8s for stubborn video ads\n* Enabled R8 code minification and resource shrinking for Google Play Protect compliance\n* Renamed sensitive engine terminology to Natural Human Interaction Pacer\n* Regenerated clean release signing certificate with neutral identity\n* Added public Downloads folder export fallback for in-app updates",
     "apkDownloadUrl":  "https://raw.githubusercontent.com/TusharTyagi-63/AdSkipper-App/main/AdSkipper-latest.apk",
     "apkFileName":  "AdSkipper-latest.apk",
-    "apkSizeBytes":  12792950,
-    "sha256":  "B4244EF3B0EFE15E9627C80E35E0165A4F579FDC8552E8B68324B4F069D25066",
-    "publishedAt":  "2026-10-25T04:55:39Z"
+    "apkSizeBytes":  2055553,
+    "sha256":  "2D969F7BB89AB81914A8800604553BD8568CB14343ED3D98C9E7F23C39CABD9F",
+    "publishedAt":  "2026-10-25T06:36:30Z"
 }
