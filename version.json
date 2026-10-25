@@ -1,12 +1,12 @@
 ﻿{
-    "versionCode":  7,
-    "versionName":  "1.0.6",
-    "tagName":  "v1.0.6",
-    "releaseTitle":  "AdSkip Pro v1.0.6 - Intelligent Ad Skipping \u0026 Autonomous Episode Unlocking",
-    "releaseNotes":  "* Fix Cancel Mis-Click: PocketFM Playing next ad in X countdown cards are strictly protected as transition screens; cancel is permanently blacklisted\n* Fix Top-Left Ad Dismissal: Gated fast-forward stencil to landscape orientation to eliminate false positives on portrait text, prioritized top-left circled cross badges in portrait, and added early top-left fallback taps at count 3\n* Enhanced Ad Surface Detection: ScreenClassifier now detects SurfaceView, TextureView, and bare corner buttons without normal PocketFM UI\n* Version bumped to v1.0.6 (Build 7)",
+    "versionCode":  8,
+    "versionName":  "1.0.7",
+    "tagName":  "v1.0.7",
+    "releaseTitle":  "AdSkip Pro v1.0.7 - Intelligent Ad Skipping \u0026 Autonomous Episode Unlocking",
+    "releaseNotes":  "* Strict Pocket FM Target Lockdown: Scoped strictly to PocketFM (com.radio.pocketfm); all other streaming audio apps (Spotify, Audible, Kuku FM, Wynk) are bypassed\n* Manual-Only Activation: Opening PocketFM never auto-starts unsolicited; engine remains idle until explicitly started by user via Dashboard or Floating Bubble\n* Spatial Component Decomposition: Screen perception split into isolated components (TopLeft, TopRight, BottomLeft, BottomRight, CenterModal)\n* Region-Tagged Telemetry: Diagnostics emit tagged spatial events ([SPATIAL:TOP_LEFT], [SPATIAL:TOP_RIGHT], etc.) for isolated debugging and zero-regression maintenance\n* Full Test Suite: All 302 unit tests verified and passing (v1.0.7 Build 8)",
     "apkDownloadUrl":  "https://raw.githubusercontent.com/TusharTyagi-63/AdSkipper-App/main/AdSkipper-latest.apk",
     "apkFileName":  "AdSkipper-latest.apk",
-    "apkSizeBytes":  2055546,
-    "sha256":  "8442BFC94D969A571DF696DAB4D4F4A94090579C86D3A18AB4C79A0129D7BDC8",
-    "publishedAt":  "2026-10-25T09:22:31Z"
+    "apkSizeBytes":  2055538,
+    "sha256":  "93D2B7E20906A68ADF511ED06769FF8C9E2BAB299C5F53F4E46558B2A19191F2",
+    "publishedAt":  "2026-10-25T12:46:14Z"
 }
