@@ -1,12 +1,12 @@
 ﻿{
-    "versionCode":  8,
-    "versionName":  "1.0.7",
-    "tagName":  "v1.0.7",
-    "releaseTitle":  "AdSkip Pro v1.0.7 - Intelligent Ad Skipping \u0026 Autonomous Episode Unlocking",
-    "releaseNotes":  "* Strict Pocket FM Target Lockdown: Scoped strictly to PocketFM (com.radio.pocketfm); all other streaming audio apps (Spotify, Audible, Kuku FM, Wynk) are bypassed\n* Manual-Only Activation: Opening PocketFM never auto-starts unsolicited; engine remains idle until explicitly started by user via Dashboard or Floating Bubble\n* Spatial Component Decomposition: Screen perception split into isolated components (TopLeft, TopRight, BottomLeft, BottomRight, CenterModal)\n* Region-Tagged Telemetry: Diagnostics emit tagged spatial events ([SPATIAL:TOP_LEFT], [SPATIAL:TOP_RIGHT], etc.) for isolated debugging and zero-regression maintenance\n* Full Test Suite: All 302 unit tests verified and passing (v1.0.7 Build 8)",
+    "versionCode":  9,
+    "versionName":  "1.0.8",
+    "tagName":  "v1.0.8",
+    "releaseTitle":  "AdSkip Pro v1.0.8 - Intelligent Ad Skipping \u0026 Autonomous Episode Unlocking",
+    "releaseNotes":  "* Strict Zero-Touch Invariant on Inter-Ad Countdown: completely isolates \u0027Playing next ad in X\u0027 countdown sheet to prevent Cancel clicks.\n* Ultra-Reliable Screen State Classification: foreground ad dismiss buttons take strict precedence over background navigation tabs.\n* Multi-Modal Unified Ad Perception: combines 5-quadrant spatial node analysis, visual canvas frame correlation, and fast-acting dual-corner fallback taps ((8.1%, 6.6%) and (92%, 6.5%)) for stubborn ads.\n* Full Modular Componentization: decoupled components for transitions, countdowns, spatial analysis, and classification.",
     "apkDownloadUrl":  "https://raw.githubusercontent.com/TusharTyagi-63/AdSkipper-App/main/AdSkipper-latest.apk",
     "apkFileName":  "AdSkipper-latest.apk",
-    "apkSizeBytes":  2055538,
-    "sha256":  "93D2B7E20906A68ADF511ED06769FF8C9E2BAB299C5F53F4E46558B2A19191F2",
-    "publishedAt":  "2026-10-25T12:46:14Z"
+    "apkSizeBytes":  2071943,
+    "sha256":  "A4D45EBAF6EA94CF40EDCE0E24CC5CB53C68EB1835565FB18E1B06A402B07948",
+    "publishedAt":  "2026-10-25T13:34:36Z"
 }
