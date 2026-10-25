@@ -2,7 +2,7 @@
 
 > High-reliability accessibility automation engine for PocketFM with human-like anti-detection, Google Play sheet dismissal, continuous episode progression, and in-app updates.
 
-[![Release](https://img.shields.io/badge/Release-v1.0.4-purple?style=for-the-badge&logo=android)](version.json)
+[![Release](https://img.shields.io/badge/Release-v1.0.5-purple?style=for-the-badge&logo=android)](version.json)
 [![APK Size](https://img.shields.io/badge/APK%20Size-1.96%20MB-blue?style=for-the-badge)](AdSkipper-latest.apk)
 [![Source Code](https://img.shields.io/badge/Source-AdSkipper-green?style=for-the-badge)](https://github.com/TusharTyagi-63/AdSkipper)
 
@@ -12,8 +12,8 @@
 
 | File | Version | Size | Checksum (SHA-256) | Release Highlights |
 |---|---|---|---|---|
-| **[AdSkipper-latest.apk](AdSkipper-latest.apk)** | `v1.0.4 (Latest)` | 1.96 MB | `2D969F7BB89AB81914A8800604553BD8568CB14343ED3D98C9E7F23C39CABD9F` | Continuous unlock, Google Play sheet dismiss, anti-detection engine, in-app updater |
-| **[AdSkipper-v1.0.4.apk](AdSkipper-v1.0.4.apk)** | `v1.0.4` | 1.96 MB | `2D969F7BB89AB81914A8800604553BD8568CB14343ED3D98C9E7F23C39CABD9F` | Direct milestone build |
+| **[AdSkipper-latest.apk](AdSkipper-latest.apk)** | `v1.0.5 (Latest)` | 1.96 MB | `BC4399288EAB90473A44BE63911C9A888A6C2BB7657570E1ABC9146919EC41DC` | Continuous unlock, Google Play sheet dismiss, anti-detection engine, in-app updater |
+| **[AdSkipper-v1.0.5.apk](AdSkipper-v1.0.5.apk)** | `v1.0.5` | 1.96 MB | `BC4399288EAB90473A44BE63911C9A888A6C2BB7657570E1ABC9146919EC41DC` | Direct milestone build |
 
 ---
 
