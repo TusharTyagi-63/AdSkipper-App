@@ -1,12 +1,12 @@
 ﻿{
-    "versionCode":  12,
-    "versionName":  "1.0.11",
-    "tagName":  "v1.0.11",
-    "releaseTitle":  "AdSkip Pro v1.0.11 - Intelligent Ad Skipping \u0026 Autonomous Episode Unlocking",
-    "releaseNotes":  "* Dynamic Ad Sync: resting breaks no longer block active video ads and immediately yield to skip buttons\n* Selective \u0026 Unlimited Modes: exact Limited N target quota enforcement and automated dialog dismissal\n* Landscape Precision: dynamic physical window bounds detection (width \u003e height) and ultra-wide spatial adaptation",
+    "versionCode":  13,
+    "versionName":  "1.0.12",
+    "tagName":  "v1.0.12",
+    "releaseTitle":  "AdSkip Pro v1.0.12 - Intelligent Ad Skipping \u0026 Autonomous Episode Unlocking",
+    "releaseNotes":  "* Resolved inter-episode transition bug where top-left back navigation icon falsely caused episode list to be treated as an ad screen\n* Implemented Seamless Fast Flow: removed artificial 30s-90s rest countdown between episodes, applying natural human reaction pacing (1.0s-1.8s)\n* Fixed dropped celebration dialog event loop, scheduling immediate 500ms follow-up scan for next episode unlock\n* Added Active Auto-Scroll mechanism to reveal below-viewport unlock buttons on episode list\n* Verified 100% test pass rate across all 380 unit tests",
     "apkDownloadUrl":  "https://raw.githubusercontent.com/TusharTyagi-63/AdSkipper-App/main/AdSkipper-latest.apk",
     "apkFileName":  "AdSkipper-latest.apk",
-    "apkSizeBytes":  2071949,
-    "sha256":  "92C7CC86ECFBAC52A8BE425C1E25FA0E82595E54E07CC3D0FD84ED076AC3E5B7",
-    "publishedAt":  "2026-10-26T07:30:25Z"
+    "apkSizeBytes":  2071927,
+    "sha256":  "8B0917AE4A35E5BF8D9FBD63449E0A993251DBD89397DB073C97D7349899248C",
+    "publishedAt":  "2026-10-26T12:54:56Z"
 }
