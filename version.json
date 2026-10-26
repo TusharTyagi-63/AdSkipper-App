@@ -1,12 +1,12 @@
 ﻿{
-    "versionCode":  11,
-    "versionName":  "1.0.10",
-    "tagName":  "v1.0.10",
-    "releaseTitle":  "AdSkip Pro v1.0.10 - Intelligent Ad Skipping \u0026 Autonomous Episode Unlocking",
-    "releaseNotes":  "* Strict Package Quarantine: 100% isolation from phone launcher, app menu, settings, and other apps - never touches phone menus or opens Play Store.\n* Foreground Ad Prioritization: Video ads and banners take precedence over background episode list unlock triggers.\n* 0s Timer \u0026 Pill Fix: \u0027Reward in 0s\u0027 and \u0027Reward granted\u0027 pill buttons properly scored and dismissed.\n* Expanded Touch Boundaries: Buttons up to 450px supported for modern high-DPI displays.\n* Video Ad Patience Window: Extended trapped timeout to ~21.6s to allow full video playback.",
+    "versionCode":  12,
+    "versionName":  "1.0.11",
+    "tagName":  "v1.0.11",
+    "releaseTitle":  "AdSkip Pro v1.0.11 - Intelligent Ad Skipping \u0026 Autonomous Episode Unlocking",
+    "releaseNotes":  "* Dynamic Ad Sync: resting breaks no longer block active video ads and immediately yield to skip buttons\n* Selective \u0026 Unlimited Modes: exact Limited N target quota enforcement and automated dialog dismissal\n* Landscape Precision: dynamic physical window bounds detection (width \u003e height) and ultra-wide spatial adaptation",
     "apkDownloadUrl":  "https://raw.githubusercontent.com/TusharTyagi-63/AdSkipper-App/main/AdSkipper-latest.apk",
     "apkFileName":  "AdSkipper-latest.apk",
-    "apkSizeBytes":  2071925,
-    "sha256":  "C46ACD0A39C5A0676A3B3AAAAB3E6C969055E47B244A0F5662519F6C58A65B11",
-    "publishedAt":  "2026-10-25T15:54:55Z"
+    "apkSizeBytes":  2071949,
+    "sha256":  "92C7CC86ECFBAC52A8BE425C1E25FA0E82595E54E07CC3D0FD84ED076AC3E5B7",
+    "publishedAt":  "2026-10-26T07:30:25Z"
 }
