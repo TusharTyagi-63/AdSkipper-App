@@ -1,12 +1,12 @@
 ﻿{
-    "versionCode":  16,
-    "versionName":  "1.0.15",
-    "tagName":  "v1.0.15",
-    "releaseTitle":  "AdSkip Pro v1.0.15 - Intelligent Ad Skipping \u0026 Autonomous Episode Unlocking",
-    "releaseNotes":  "* Intelligent Real-User Ad Skipping without rigid coordinate checks\n* Autonomous Continuous Episode Unlocking for PocketFM\n* Multi-Modal Detection (Google Play bottom sheets, reward pills, video skips)\n* In-App One-Click Updater via AdSkipper-App\n* Anti-Detection Engine with randomized delays and tap jitter",
+    "versionCode":  17,
+    "versionName":  "1.0.16",
+    "tagName":  "v1.0.16",
+    "releaseTitle":  "AdSkip Pro v1.0.16 - Intelligent Ad Skipping \u0026 Autonomous Episode Unlocking",
+    "releaseNotes":  "v1.0.16 Update:\n* Static Ads Support: Full detection of non-video static ads with CTA/Attribution/Container identification.\n* Volume/Mute Control Shielding: Smart differentiation between audio toggles and ad close buttons across all 4 screen corners.\n* Accurate Episode Count \u0026 Limit Binding: Fixed double-counting and bound exact episode limits to continuous unlock state machine.\n* Overlay Persistence \u0026 Clamping: Protected overlay service with START_STICKY, orientation change clamping, and background health checks.",
     "apkDownloadUrl":  "https://raw.githubusercontent.com/TusharTyagi-63/AdSkipper-App/main/AdSkipper-latest.apk",
     "apkFileName":  "AdSkipper-latest.apk",
-    "apkSizeBytes":  2071933,
-    "sha256":  "0F3AD394A9ABECC448E28AE56A6E3525D9CE84BD1221C1935C5E0D8F0A610FE1",
-    "publishedAt":  "2026-10-26T17:34:40Z"
+    "apkSizeBytes":  2088313,
+    "sha256":  "A844B66793C573A57409D131F98EF16CB89468669D1A45C1DB5383BBEE3F31B4",
+    "publishedAt":  "2026-10-27T04:00:25Z"
 }
