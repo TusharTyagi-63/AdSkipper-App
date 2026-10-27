@@ -1,12 +1,12 @@
 ﻿{
-    "versionCode":  17,
-    "versionName":  "1.0.16",
-    "tagName":  "v1.0.16",
-    "releaseTitle":  "AdSkip Pro v1.0.16 - Intelligent Ad Skipping \u0026 Autonomous Episode Unlocking",
-    "releaseNotes":  "v1.0.16 Update:\n* Static Ads Support: Full detection of non-video static ads with CTA/Attribution/Container identification.\n* Volume/Mute Control Shielding: Smart differentiation between audio toggles and ad close buttons across all 4 screen corners.\n* Accurate Episode Count \u0026 Limit Binding: Fixed double-counting and bound exact episode limits to continuous unlock state machine.\n* Overlay Persistence \u0026 Clamping: Protected overlay service with START_STICKY, orientation change clamping, and background health checks.",
+    "versionCode":  18,
+    "versionName":  "1.0.17",
+    "tagName":  "v1.0.17",
+    "releaseTitle":  "AdSkip Pro v1.0.17 - Intelligent Ad Skipping \u0026 Autonomous Episode Unlocking",
+    "releaseNotes":  "v1.0.17 Release:\n* Top-Left Static Ads Skipping: Guaranteed AD_SCREEN classification precedence over background episode lists, added TOP_LEFT_KEYWORDS_REGEX, and expanded button boundary limit to 360px.\n* Sound Toggle Zero-Tolerance Shielding: Full Unicode \u0026 Devanagari audio glyph matching, child-node sound indicator inspection, and lowered bare-button confidence.\n* Anti-Toggle Repeat-Click Quarantine: Automatically quarantines repeated non-dismissing click targets for 15s to permanently break toggle loops.\n* Guarded Fallback Taps: Inhibited blind fallback taps during active video/media playback until 12+ scans of inactivity.",
     "apkDownloadUrl":  "https://raw.githubusercontent.com/TusharTyagi-63/AdSkipper-App/main/AdSkipper-latest.apk",
     "apkFileName":  "AdSkipper-latest.apk",
-    "apkSizeBytes":  2088313,
-    "sha256":  "A844B66793C573A57409D131F98EF16CB89468669D1A45C1DB5383BBEE3F31B4",
-    "publishedAt":  "2026-10-27T04:00:25Z"
+    "apkSizeBytes":  2088325,
+    "sha256":  "4412F77491606DAF7F01ECC5CCF9D97E2095E7DA97B11518826BDB33302FF9C5",
+    "publishedAt":  "2026-10-27T06:28:31Z"
 }
