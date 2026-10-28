@@ -1,12 +1,12 @@
 ﻿{
-    "versionCode":  24,
-    "versionName":  "1.0.23",
-    "tagName":  "v1.0.23",
-    "releaseTitle":  "AdSkip Pro v1.0.23 - Intelligent Ad Skipping \u0026 Autonomous Episode Unlocking",
-    "releaseNotes":  "* Fixed 1-2s Launch Crash: Bumped Room DB to version 3 and added seamless MIGRATION_2_3 to prevent IllegalStateException schema mismatch on existing installs\n* Idempotent Database Migrations: Ensured learned patterns and session histories are preserved across app updates\n* Crash Dump Logger: Installed global uncaught exception logger to catch and persist any fatal crashes to file",
+    "versionCode":  25,
+    "versionName":  "1.0.24",
+    "tagName":  "v1.0.24",
+    "releaseTitle":  "AdSkip Pro v1.0.24 - Intelligent Ad Skipping \u0026 Autonomous Episode Unlocking",
+    "releaseNotes":  "* True Aspect Ratio Preview: Fixed squished/stretched screenshots in Pin Target dialog with mathematical aspect ratio fitting neither too small nor too wide\n* Fullscreen Screenshot Viewer: Tapping any learned ad thumbnail opens a crisp, undistorted full preview dialog\n* Quick Corner Preset Chips: Added 1-tap presets for Top-Left (170, 70), (82, 64), Top-Right (920, 65), and Bottom-Left (52, 838)\n* Rewarded Ad Recognition: Added on-device detection for \u0027Reward granted\u0027 / \u0027Reward credited\u0027 pills with left close icon targeting\n* Volume Button Shielding: Prevented misclassification of top-right sound mute/unmute buttons as skip targets",
     "apkDownloadUrl":  "https://raw.githubusercontent.com/TusharTyagi-63/AdSkipper-App/main/AdSkipper-latest.apk",
     "apkFileName":  "AdSkipper-latest.apk",
-    "apkSizeBytes":  45385434,
-    "sha256":  "9FDEEFBE96DED82704DD15038A7C4753144270A07CDD178F680077991A67056F",
-    "publishedAt":  "2026-10-28T14:52:43Z"
+    "apkSizeBytes":  45385449,
+    "sha256":  "A56EB1EA91D4858E8BF0FA3F29D03FFC9356FD845F7A41EED56D214F4C362943",
+    "publishedAt":  "2026-10-28T15:41:46Z"
 }
