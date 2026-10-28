@@ -1,12 +1,12 @@
 ﻿{
-    "versionCode":  25,
-    "versionName":  "1.0.24",
-    "tagName":  "v1.0.24",
-    "releaseTitle":  "AdSkip Pro v1.0.24 - Intelligent Ad Skipping \u0026 Autonomous Episode Unlocking",
-    "releaseNotes":  "* True Aspect Ratio Preview: Fixed squished/stretched screenshots in Pin Target dialog with mathematical aspect ratio fitting neither too small nor too wide\n* Fullscreen Screenshot Viewer: Tapping any learned ad thumbnail opens a crisp, undistorted full preview dialog\n* Quick Corner Preset Chips: Added 1-tap presets for Top-Left (170, 70), (82, 64), Top-Right (920, 65), and Bottom-Left (52, 838)\n* Rewarded Ad Recognition: Added on-device detection for \u0027Reward granted\u0027 / \u0027Reward credited\u0027 pills with left close icon targeting\n* Volume Button Shielding: Prevented misclassification of top-right sound mute/unmute buttons as skip targets",
+    "versionCode":  26,
+    "versionName":  "1.0.25",
+    "tagName":  "v1.0.25",
+    "releaseTitle":  "AdSkip Pro v1.0.25 - Intelligent Ad Skipping \u0026 Autonomous Episode Unlocking",
+    "releaseNotes":  "* Precision Leaf-Targeting for AdMob/Google Ads rewarded pills (✕ icon hitboxes)\n* Post-Click Verification: Prevents premature \u0027Ad skipped\u0027 announcements before real dismissal\n* Anti-Toggle Quarantine Fix: Shields legitimate skip/close buttons from being quarantined\n* On-Device Stuck Ad Extraction: Mirrored offline screenshot cache \u0026 SQLite dump to external storage for ADB analysis\n* History \u0026 Memory UI: Enhanced pin reticle presets for rewarded pill ✕ and corner close targets",
     "apkDownloadUrl":  "https://raw.githubusercontent.com/TusharTyagi-63/AdSkipper-App/main/AdSkipper-latest.apk",
     "apkFileName":  "AdSkipper-latest.apk",
-    "apkSizeBytes":  45385449,
-    "sha256":  "A56EB1EA91D4858E8BF0FA3F29D03FFC9356FD845F7A41EED56D214F4C362943",
-    "publishedAt":  "2026-10-28T15:41:46Z"
+    "apkSizeBytes":  48289569,
+    "sha256":  "6B3B1DA636B1D3BE0D8182AA8EC4580483C663ABFE6A56C735150A2F39544471",
+    "publishedAt":  "2026-10-28T16:49:33Z"
 }
