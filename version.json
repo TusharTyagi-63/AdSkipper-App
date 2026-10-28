@@ -1,12 +1,12 @@
 ﻿{
-    "versionCode":  23,
-    "versionName":  "1.0.22",
-    "tagName":  "v1.0.22",
-    "releaseTitle":  "AdSkip Pro v1.0.22 - Intelligent Ad Skipping \u0026 Autonomous Episode Unlocking",
-    "releaseNotes":  "* 100% On-Device \u0026 Offline: Completely removed Gemini API, cloud network dependencies, and API keys\n* Manual Skip Pinning: Interactive \u0027Pin Target\u0027 tool on screenshot gallery allows 1-tap coordinate learning for failed/stubborn ads\n* Multi-Stage Live Fallback Escapes: Auto-capture at 8.4s, smart corner probing at 14.4s, and global back escape at 21.6s\n* Re-analysis attempt capping at 3 attempts to prevent CPU loops\n* Cleaned up Settings UI and verified 100% test pass rate",
+    "versionCode":  24,
+    "versionName":  "1.0.23",
+    "tagName":  "v1.0.23",
+    "releaseTitle":  "AdSkip Pro v1.0.23 - Intelligent Ad Skipping \u0026 Autonomous Episode Unlocking",
+    "releaseNotes":  "* Fixed 1-2s Launch Crash: Bumped Room DB to version 3 and added seamless MIGRATION_2_3 to prevent IllegalStateException schema mismatch on existing installs\n* Idempotent Database Migrations: Ensured learned patterns and session histories are preserved across app updates\n* Crash Dump Logger: Installed global uncaught exception logger to catch and persist any fatal crashes to file",
     "apkDownloadUrl":  "https://raw.githubusercontent.com/TusharTyagi-63/AdSkipper-App/main/AdSkipper-latest.apk",
     "apkFileName":  "AdSkipper-latest.apk",
-    "apkSizeBytes":  45385436,
-    "sha256":  "63E2E1EE554042C0B63136425F3FAE96C543E8B163B38DF85B11268D46CD4768",
-    "publishedAt":  "2026-10-28T14:17:02Z"
+    "apkSizeBytes":  45385434,
+    "sha256":  "9FDEEFBE96DED82704DD15038A7C4753144270A07CDD178F680077991A67056F",
+    "publishedAt":  "2026-10-28T14:52:43Z"
 }
