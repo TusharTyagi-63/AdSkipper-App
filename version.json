@@ -1,12 +1,12 @@
 ﻿{
-    "versionCode":  21,
-    "versionName":  "1.0.20",
-    "tagName":  "v1.0.20",
-    "releaseTitle":  "AdSkip Pro v1.0.20 - Intelligent Ad Skipping \u0026 Autonomous Episode Unlocking",
-    "releaseNotes":  "* Fixed 4-5h multi-hour freeze bug with supervisor coroutine loops \u0026 self-healing auto-restart\n* Eliminated GraphicBuffer hardware bitmap leak and added 2.5s screenshot timeout\n* Zero-allocation direct pixel sampling in VisualPatternCache with 150-entry LRU cap\n* Cleaned up 38 legacy files (removed VisualAdDetector and all obsolete spatial analyzers)\n* Enabled UNLIMITED mode and auto-start on Pocket FM by default",
+    "versionCode":  22,
+    "versionName":  "1.0.21",
+    "tagName":  "v1.0.21",
+    "releaseTitle":  "AdSkip Pro v1.0.21 - Intelligent Ad Skipping \u0026 Autonomous Episode Unlocking",
+    "releaseNotes":  "* Autonomous Ad Visual Learning Engine: automatically captures stuck ad frames after 8s and analyzes them in background\n* Dual-Engine multimodal visual recognition with Room DB v2 persistent layout memory\n* 1-Tap \u0027Report / Learn Stuck Ad\u0027 trigger added to Floating HUD bubble\n* Learned Ad Memory gallery added to History Screen with thumbnail previews, coordinate markers, and re-analysis controls\n* LRU screenshot storage bounded to 25 items (~3MB) with auto-recycling",
     "apkDownloadUrl":  "https://raw.githubusercontent.com/TusharTyagi-63/AdSkipper-App/main/AdSkipper-latest.apk",
     "apkFileName":  "AdSkipper-latest.apk",
-    "apkSizeBytes":  45494447,
-    "sha256":  "6C916E5D658A6662040BBCB6A8EF2B08691DBE6C2DCE2772BE3CBCB1014DB04C",
-    "publishedAt":  "2026-10-28T05:25:40Z"
+    "apkSizeBytes":  45510823,
+    "sha256":  "A234A2BF28517D89A9DC9AADF89D1F0308200566E2F465FD885FE56359346251",
+    "publishedAt":  "2026-10-28T13:44:03Z"
 }
