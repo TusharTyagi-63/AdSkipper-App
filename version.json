@@ -1,12 +1,12 @@
 ﻿{
-    "versionCode":  22,
-    "versionName":  "1.0.21",
-    "tagName":  "v1.0.21",
-    "releaseTitle":  "AdSkip Pro v1.0.21 - Intelligent Ad Skipping \u0026 Autonomous Episode Unlocking",
-    "releaseNotes":  "* Autonomous Ad Visual Learning Engine: automatically captures stuck ad frames after 8s and analyzes them in background\n* Dual-Engine multimodal visual recognition with Room DB v2 persistent layout memory\n* 1-Tap \u0027Report / Learn Stuck Ad\u0027 trigger added to Floating HUD bubble\n* Learned Ad Memory gallery added to History Screen with thumbnail previews, coordinate markers, and re-analysis controls\n* LRU screenshot storage bounded to 25 items (~3MB) with auto-recycling",
+    "versionCode":  23,
+    "versionName":  "1.0.22",
+    "tagName":  "v1.0.22",
+    "releaseTitle":  "AdSkip Pro v1.0.22 - Intelligent Ad Skipping \u0026 Autonomous Episode Unlocking",
+    "releaseNotes":  "* 100% On-Device \u0026 Offline: Completely removed Gemini API, cloud network dependencies, and API keys\n* Manual Skip Pinning: Interactive \u0027Pin Target\u0027 tool on screenshot gallery allows 1-tap coordinate learning for failed/stubborn ads\n* Multi-Stage Live Fallback Escapes: Auto-capture at 8.4s, smart corner probing at 14.4s, and global back escape at 21.6s\n* Re-analysis attempt capping at 3 attempts to prevent CPU loops\n* Cleaned up Settings UI and verified 100% test pass rate",
     "apkDownloadUrl":  "https://raw.githubusercontent.com/TusharTyagi-63/AdSkipper-App/main/AdSkipper-latest.apk",
     "apkFileName":  "AdSkipper-latest.apk",
-    "apkSizeBytes":  45510823,
-    "sha256":  "A234A2BF28517D89A9DC9AADF89D1F0308200566E2F465FD885FE56359346251",
-    "publishedAt":  "2026-10-28T13:44:03Z"
+    "apkSizeBytes":  45385436,
+    "sha256":  "63E2E1EE554042C0B63136425F3FAE96C543E8B163B38DF85B11268D46CD4768",
+    "publishedAt":  "2026-10-28T14:17:02Z"
 }
