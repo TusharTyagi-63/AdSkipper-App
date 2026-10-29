@@ -1,12 +1,12 @@
 ﻿{
-    "versionCode":  26,
-    "versionName":  "1.0.25",
-    "tagName":  "v1.0.25",
-    "releaseTitle":  "AdSkip Pro v1.0.25 - Intelligent Ad Skipping \u0026 Autonomous Episode Unlocking",
-    "releaseNotes":  "* Precision Leaf-Targeting for AdMob/Google Ads rewarded pills (✕ icon hitboxes)\n* Post-Click Verification: Prevents premature \u0027Ad skipped\u0027 announcements before real dismissal\n* Anti-Toggle Quarantine Fix: Shields legitimate skip/close buttons from being quarantined\n* On-Device Stuck Ad Extraction: Mirrored offline screenshot cache \u0026 SQLite dump to external storage for ADB analysis\n* History \u0026 Memory UI: Enhanced pin reticle presets for rewarded pill ✕ and corner close targets",
+    "versionCode":  27,
+    "versionName":  "1.0.26",
+    "tagName":  "v1.0.26",
+    "releaseTitle":  "AdSkip Pro v1.0.26 - Intelligent Ad Skipping \u0026 Autonomous Episode Unlocking",
+    "releaseNotes":  "* Tier 1 \u0026 2: 64-bit dHash (Difference Hashing) with Hamming distance similarity matching (\u003c=10 bits)\n* Solves 0 Hits bug: Learned and pinned ads reliably match despite video playback, timers, or compression\n* Tier 2: Static Header \u0026 Footer Chrome hashing isolates ad controls from center video movement\n* Tier 3: High-contrast circular close badge scanner detects ✕ and skip glyphs across corners \u0026 card dialogs (Y ~ 350-400)\n* Instant vision trigger on ad entry (zero-wait on screen transition)\n* Preloads persistent dHash fingerprints from cached screenshots on service start",
     "apkDownloadUrl":  "https://raw.githubusercontent.com/TusharTyagi-63/AdSkipper-App/main/AdSkipper-latest.apk",
     "apkFileName":  "AdSkipper-latest.apk",
     "apkSizeBytes":  48289569,
-    "sha256":  "6B3B1DA636B1D3BE0D8182AA8EC4580483C663ABFE6A56C735150A2F39544471",
-    "publishedAt":  "2026-10-28T16:49:33Z"
+    "sha256":  "D60B96F1DC795CB4E376349C08ACF485E0B232F8DC34736938DE50866771603D",
+    "publishedAt":  "2026-10-29T07:43:45Z"
 }
