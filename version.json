@@ -1,12 +1,12 @@
 ﻿{
-    "versionCode":  27,
-    "versionName":  "1.0.26",
-    "tagName":  "v1.0.26",
-    "releaseTitle":  "AdSkip Pro v1.0.26 - Intelligent Ad Skipping \u0026 Autonomous Episode Unlocking",
-    "releaseNotes":  "* Tier 1 \u0026 2: 64-bit dHash (Difference Hashing) with Hamming distance similarity matching (\u003c=10 bits)\n* Solves 0 Hits bug: Learned and pinned ads reliably match despite video playback, timers, or compression\n* Tier 2: Static Header \u0026 Footer Chrome hashing isolates ad controls from center video movement\n* Tier 3: High-contrast circular close badge scanner detects ✕ and skip glyphs across corners \u0026 card dialogs (Y ~ 350-400)\n* Instant vision trigger on ad entry (zero-wait on screen transition)\n* Preloads persistent dHash fingerprints from cached screenshots on service start",
+    "versionCode":  28,
+    "versionName":  "1.0.27",
+    "tagName":  "v1.0.27",
+    "releaseTitle":  "AdSkip Pro v1.0.27 - Intelligent Ad Skipping \u0026 Autonomous Episode Unlocking",
+    "releaseNotes":  "* Fix false ad screen classification on Pocket FM toolbar back buttons\n* Fix post-click verification deadlock in ContinuousUnlockStateMachine\n* Escalate trapped scans to corner probing and fallback back-press when targets fail to dismiss\n* Prevent node tree scanner from treating app toolbar back buttons as ad skip buttons",
     "apkDownloadUrl":  "https://raw.githubusercontent.com/TusharTyagi-63/AdSkipper-App/main/AdSkipper-latest.apk",
     "apkFileName":  "AdSkipper-latest.apk",
-    "apkSizeBytes":  48289569,
-    "sha256":  "D60B96F1DC795CB4E376349C08ACF485E0B232F8DC34736938DE50866771603D",
-    "publishedAt":  "2026-10-29T07:43:45Z"
+    "apkSizeBytes":  48289557,
+    "sha256":  "0DC5AEAC6B9E821C8D3EE115DB5C0501A9CD534FA46CC57E72EFF83014F2F1F0",
+    "publishedAt":  "2026-10-31T17:15:50Z"
 }
