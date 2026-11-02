@@ -1,12 +1,12 @@
 {
-    "versionCode":  29,
-    "versionName":  "1.0.28",
-    "tagName":  "v1.0.28",
-    "releaseTitle":  "AdSkip Pro v1.0.28 - Visual Memory Fixes, Memory Optimization & UI Streamlining",
-    "releaseNotes":  "* Fix 0-hits issue in learned ad patterns by registering true 64-bit difference hashes (dHash)\n* 99.2% memory reduction for history screenshots, eliminating main-thread UI jank & OOM risk\n* Auto-launch floating HUD bubble and active session controls when auto-start activates\n* Pre-compiled custom keyword regex cache and symbol containment matching\n* Replaced deprecated AccessibilityEvent obtain/recycle APIs with lightweight event trigger channel\n* Compact, deduplicated session history summary banner on History screen\n* Dynamic cross-clamped Reaction Delay sliders in Settings",
+    "versionCode":  30,
+    "versionName":  "1.0.29",
+    "tagName":  "v1.0.29",
+    "releaseTitle":  "AdSkip Pro v1.0.29 - Manual Start Mode Enforcement",
+    "releaseNotes":  "* Enforce strict manual-only start mode: automation only runs when you tap 'Start Automation'\n* Completely eliminated unsolicited background auto-starts when opening Pocket FM\n* Fix 0-hits issue in learned ad patterns by registering true 64-bit difference hashes (dHash)\n* 99.2% memory reduction for history screenshots, eliminating main-thread UI jank & OOM risk\n* Pre-compiled custom keyword regex cache and symbol containment matching\n* Dynamic cross-clamped Reaction Delay sliders in Settings",
     "apkDownloadUrl":  "https://raw.githubusercontent.com/TusharTyagi-63/AdSkipper-App/main/AdSkipper-latest.apk",
     "apkFileName":  "AdSkipper-latest.apk",
-    "apkSizeBytes":  48273190,
-    "sha256":  "C5C7A024E626B94A3C502C14C0A7D85DFB80337E9249B20CEF88B1BEC460B3AD",
-    "publishedAt":  "2026-11-02T14:44:00Z"
+    "apkSizeBytes":  48273194,
+    "sha256":  "30598C7CBF34AC928A5B489840C522E914C6EDE8E21A3E4D7443C78685D2935A",
+    "publishedAt":  "2026-11-02T15:15:00Z"
 }
