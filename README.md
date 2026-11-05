@@ -2,7 +2,7 @@
 
 > High-reliability accessibility automation engine for PocketFM with human-like anti-detection, Google Play sheet dismissal, continuous episode progression, and in-app updates.
 
-[![Release](https://img.shields.io/badge/Release-v1.0.29-purple?style=for-the-badge&logo=android)](version.json)
+[![Release](https://img.shields.io/badge/Release-v1.0.30-purple?style=for-the-badge&logo=android)](version.json)
 [![APK Size](https://img.shields.io/badge/APK%20Size-46.04%20MB-blue?style=for-the-badge)](AdSkipper-latest.apk)
 [![Source Code](https://img.shields.io/badge/Source-AdSkipper-green?style=for-the-badge)](https://github.com/TusharTyagi-63/AdSkipper)
 
@@ -12,10 +12,10 @@
 
 | File | Version | Size | Checksum (SHA-256) | Release Highlights |
 |---|---|---|---|---|
-| **[AdSkipper-latest.apk](AdSkipper-latest.apk)** | `v1.0.29 (Latest)` | 46.04 MB | `30598C7CBF34AC928A5B489840C522E914C6EDE8E21A3E4D7443C78685D2935A` | Manual-only start mode enforcement, zero unsolicited auto-starts, true dHash matching, 99% history memory reduction |
-| **[AdSkipper-v1.0.29.apk](AdSkipper-v1.0.29.apk)** | `v1.0.29` | 46.04 MB | `30598C7CBF34AC928A5B489840C522E914C6EDE8E21A3E4D7443C78685D2935A` | Direct milestone build |
+| **[AdSkipper-latest.apk](AdSkipper-latest.apk)** | `v1.0.30 (Latest)` | 46.04 MB | `6404FC4F6D9BABCBFD1124AAAD23037D9363FE3EE7D9D12225DFAC5F20344265` | Screen Touch Lock (Pocket Mode) with double-tap unlock, accurate ad data reconciliation, floating HUD sync, on-device ML rapid hits & 50-100ms fast dispatch |
+| **[AdSkipper-v1.0.30.apk](AdSkipper-v1.0.30.apk)** | `v1.0.30` | 46.04 MB | `6404FC4F6D9BABCBFD1124AAAD23037D9363FE3EE7D9D12225DFAC5F20344265` | Direct milestone build |
+| **[AdSkipper-v1.0.29.apk](AdSkipper-v1.0.29.apk)** | `v1.0.29` | 46.04 MB | `30598C7CBF34AC928A5B489840C522E914C6EDE8E21A3E4D7443C78685D2935A` | Manual-only start mode enforcement |
 | **[AdSkipper-v1.0.28.apk](AdSkipper-v1.0.28.apk)** | `v1.0.28` | 46.04 MB | `C5C7A024E626B94A3C502C14C0A7D85DFB80337E9249B20CEF88B1BEC460B3AD` | Previous build |
-| **[AdSkipper-v1.0.27.apk](AdSkipper-v1.0.27.apk)** | `v1.0.27` | 46.05 MB | `0DC5AEAC6B9E821C8D3EE115DB5C0501A9CD534FA46CC57E72EFF83014F2F1F0` | Legacy stable build |
 
 ---
 
