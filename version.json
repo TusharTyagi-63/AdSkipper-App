@@ -1,12 +1,12 @@
 {
-    "versionCode":  32,
-    "versionName":  "1.0.31",
-    "tagName":  "v1.0.31",
-    "releaseTitle":  "AdSkip Pro v1.0.31 - Self-Targeting HUD Safety Gate, InMobi Decoy Neutralization & Resilient Perception",
-    "releaseNotes":  "* Safety Gate Protection: Zero-tolerance regex guardrails blocking vision OCR from self-targeting HUD overlay text or status badges\n* Corrupted HUD Pattern Purge: Automatic Room DB purging on startup to eliminate errant center-screen clicks\n* InMobi Top-Left Native Close: Top-left close button prioritized (score 110) over deceptive top-right 'Close ad' webview redirect\n* Resilient Perception Fallback: Dynamic eviction of visual patterns after 3 consecutive misses with automatic fallback to NodeTreeScanner\n* Comprehensive Trapped Scan Recovery: Global back-press escape fallback across all perception target types when ads become unresponsive",
-    "apkDownloadUrl":  "https://raw.githubusercontent.com/TusharTyagi-63/AdSkipper-App/main/AdSkipper-latest.apk",
-    "apkFileName":  "AdSkipper-latest.apk",
-    "apkSizeBytes":  48289576,
-    "sha256":  "8D82F7DDA9A2FAAF630BB58127D402A505E7AE9053917B865CEC8A240E31B5CF",
-    "publishedAt":  "2026-11-06T10:00:00Z"
+    "versionCode": 33,
+    "versionName": "1.0.32",
+    "tagName": "v1.0.32",
+    "releaseTitle": "AdSkip Pro v1.0.32 - Landscape Ad Precision, Geometric HUD Exclusion & Phonetic OCR Shielding",
+    "releaseNotes": "* Rotated Screen (Landscape Ads) Support: Added multi-quadrant corner perception across top-left, top-right, bottom-left, and bottom-right corners when width > height\n* Orientation Hash Isolation: VisualPatternCache isolates portrait dHashes from landscape frames to prevent mismatched layout taps\n* Phonetic OCR Shielding: Expanded HUD overlay regex with 'slalus', 'slelus', and phonetic variants to neutralize OCR misreadings of 'Status:'\n* Hard Geometric Exclusion: Blocked clicks in dead center (x: 250..750, y: 100..750) during active ad countdowns\n* Smart Dual-Corner Probing: Dynamic top-right probing at scan 12 and top-left probing at scan 15 adapting dynamically to screen orientation",
+    "apkDownloadUrl": "https://raw.githubusercontent.com/TusharTyagi-63/AdSkipper-App/main/AdSkipper-latest.apk",
+    "apkFileName": "AdSkipper-latest.apk",
+    "apkSizeBytes": 48289575,
+    "sha256": "A1CD1EF068E175C28194C1FBA99E15B0FE963ABE5A28AF05383782C3EE8EC502",
+    "publishedAt": "2026-11-06T15:30:00Z"
 }
