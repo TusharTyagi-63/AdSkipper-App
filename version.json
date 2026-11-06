@@ -1,12 +1,12 @@
 {
-    "versionCode":  31,
-    "versionName":  "1.0.30",
-    "tagName":  "v1.0.30",
-    "releaseTitle":  "AdSkip Pro v1.0.30 - Screen Touch Lock, ML Rapid Hits & Ad Data Reconciliation",
-    "releaseNotes":  "* Screen Touch Lock (Pocket Protection Mode): Block hand & pocket touches with double-tap anywhere unlock\n* Ad-skipping data reconciliation: clean single-session lifecycle with zero orphaned running sessions\n* Floating HUD bubble & In-App screen synchronization: synchronized Pause/Resume and auto-close on Stop\n* On-Device ML/AI Rapid Hits: automatic pattern persistence into Room DB and instant hit recording\n* Fast-Path Click Dispatch: 50-100ms ultra-rapid action on learned ad patterns\n* 4x accelerated visual perception interval (250ms cadence) with 12-bit Hamming tolerance",
+    "versionCode":  32,
+    "versionName":  "1.0.31",
+    "tagName":  "v1.0.31",
+    "releaseTitle":  "AdSkip Pro v1.0.31 - Self-Targeting HUD Safety Gate, InMobi Decoy Neutralization & Resilient Perception",
+    "releaseNotes":  "* Safety Gate Protection: Zero-tolerance regex guardrails blocking vision OCR from self-targeting HUD overlay text or status badges\n* Corrupted HUD Pattern Purge: Automatic Room DB purging on startup to eliminate errant center-screen clicks\n* InMobi Top-Left Native Close: Top-left close button prioritized (score 110) over deceptive top-right 'Close ad' webview redirect\n* Resilient Perception Fallback: Dynamic eviction of visual patterns after 3 consecutive misses with automatic fallback to NodeTreeScanner\n* Comprehensive Trapped Scan Recovery: Global back-press escape fallback across all perception target types when ads become unresponsive",
     "apkDownloadUrl":  "https://raw.githubusercontent.com/TusharTyagi-63/AdSkipper-App/main/AdSkipper-latest.apk",
     "apkFileName":  "AdSkipper-latest.apk",
-    "apkSizeBytes":  48273182,
-    "sha256":  "6404FC4F6D9BABCBFD1124AAAD23037D9363FE3EE7D9D12225DFAC5F20344265",
-    "publishedAt":  "2026-11-05T14:00:00Z"
+    "apkSizeBytes":  48289576,
+    "sha256":  "8D82F7DDA9A2FAAF630BB58127D402A505E7AE9053917B865CEC8A240E31B5CF",
+    "publishedAt":  "2026-11-06T10:00:00Z"
 }
