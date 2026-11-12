@@ -1,12 +1,12 @@
 {
-    "versionCode": 34,
-    "versionName": "1.0.33",
-    "tagName": "v1.0.33",
-    "releaseTitle": "AdSkip Pro v1.0.33 - Elimination of Ad Creative Taps & Play Store Escapes",
-    "releaseNotes": "* Elimination of Ad Creative False Positives: Removed mid-screen circular glyph scanning ('Card Mid-Left' & 'Card Mid-Right') in video ads\n* Hard Vertical Band Exclusion: Blocked all clicks in middle screen (normY in 180..820) during active ad countdowns and dismiss phases\n* Purged Corrupted Patterns: Automatically purged 25 corrupt creative/ad-body patterns from Room DB\n* Full Landscape Ad Support: Multi-quadrant corner perception across all 4 quadrants in landscape orientation",
+    "versionCode": 35,
+    "versionName": "1.0.34",
+    "tagName": "v1.0.34",
+    "releaseTitle": "AdSkip Pro v1.0.34 - Watchdog Architecture Parity & Sub-50ms Escape Interception",
+    "releaseNotes": "* Active Escape Recovery: Intercepts Chrome, Play Store, and Share Sheet escapes in <50ms and dispatches GLOBAL_ACTION_BACK to return directly to Pocket FM\n* Universal Ad Activity Recognition: Added support for Unity 3D (FullScreenWebViewDisplay), BidMachine (FullScreenActivity), Fyber (InneractiveFullscreenAdActivity), and InMobi\n* Dual-Contrast Inverted Glyph Perception: Detects dark circular badges with white \u2715 (Unity ads) alongside classic dark-on-light badges\n* Calibrated Bezel Close Coordinates: Probes exact close hitboxes at y=108px (4.5% H) at 988,108 and 92,108\n* Real-World Wall-Clock Ad Timer: Tracks true elapsed ad duration and enforces 30s auto-dismiss",
     "apkDownloadUrl": "https://raw.githubusercontent.com/TusharTyagi-63/AdSkipper-App/main/AdSkipper-latest.apk",
     "apkFileName": "AdSkipper-latest.apk",
-    "apkSizeBytes": 48289577,
-    "sha256": "D0258E961D26E59C4C6E5EDED0B9DF01C8B73B573949540D02416D38928DDE17",
-    "publishedAt": "2026-11-12T17:40:00Z"
+    "apkSizeBytes": 48289567,
+    "sha256": "4F4D28B5E6F9421A7D6C7F73258DEA379C9FA2C0C5DFBA48FF5D6B706627FD92",
+    "publishedAt": "2026-11-12T19:05:00Z"
 }
