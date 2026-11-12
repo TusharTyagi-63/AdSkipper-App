@@ -2,7 +2,7 @@
 
 > High-reliability accessibility automation engine for PocketFM with human-like anti-detection, Google Play sheet dismissal, continuous episode progression, and in-app updates.
 
-[![Release](https://img.shields.io/badge/Release-v1.0.32-purple?style=for-the-badge&logo=android)](version.json)
+[![Release](https://img.shields.io/badge/Release-v1.0.33-purple?style=for-the-badge&logo=android)](version.json)
 [![APK Size](https://img.shields.io/badge/APK%20Size-46.05%20MB-blue?style=for-the-badge)](AdSkipper-latest.apk)
 [![Source Code](https://img.shields.io/badge/Source-AdSkipper-green?style=for-the-badge)](https://github.com/TusharTyagi-63/AdSkipper)
 
@@ -12,7 +12,8 @@
 
 | File | Version | Size | Checksum (SHA-256) | Release Highlights |
 |---|---|---|---|---|
-| **[AdSkipper-latest.apk](AdSkipper-latest.apk)** | `v1.0.32 (Latest)` | 46.05 MB | `A1CD1EF068E175C28194C1FBA99E15B0FE963ABE5A28AF05383782C3EE8EC502` | Landscape Ad Support (4-quadrant corner perception), Phonetic OCR Shielding ('slalus'), Dead-Center Geometric Exclusion, Dual Corner Probing |
+| **[AdSkipper-latest.apk](AdSkipper-latest.apk)** | `v1.0.33 (Latest)` | 46.05 MB | `D0258E961D26E59C4C6E5EDED0B9DF01C8B73B573949540D02416D38928DDE17` | Complete Play Store Escape Elimination, Ad Creative Middle-Band Shielding (y: 180..820), Corrupted Creative Purge |
+| **[AdSkipper-v1.0.33.apk](AdSkipper-v1.0.33.apk)** | `v1.0.33` | 46.05 MB | `D0258E961D26E59C4C6E5EDED0B9DF01C8B73B573949540D02416D38928DDE17` | Milestone build for Play Store bug fix |
 | **[AdSkipper-v1.0.32.apk](AdSkipper-v1.0.32.apk)** | `v1.0.32` | 46.05 MB | `A1CD1EF068E175C28194C1FBA99E15B0FE963ABE5A28AF05383782C3EE8EC502` | Milestone build for landscape & discovery fixes |
 | **[AdSkipper-v1.0.31.apk](AdSkipper-v1.0.31.apk)** | `v1.0.31` | 46.05 MB | `A1CD1EF068E175C28194C1FBA99E15B0FE963ABE5A28AF05383782C3EE8EC502` | Direct milestone build |
 | **[AdSkipper-v1.0.30.apk](AdSkipper-v1.0.30.apk)** | `v1.0.30` | 46.04 MB | `6404FC4F6D9BABCBFD1124AAAD23037D9363FE3EE7D9D12225DFAC5F20344265` | Screen Touch Lock (Pocket Mode), ad-skipping data reconciliation, floating HUD sync |

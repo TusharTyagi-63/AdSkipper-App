@@ -1,12 +1,12 @@
 {
-    "versionCode": 33,
-    "versionName": "1.0.32",
-    "tagName": "v1.0.32",
-    "releaseTitle": "AdSkip Pro v1.0.32 - Landscape Ad Precision, Geometric HUD Exclusion & Phonetic OCR Shielding",
-    "releaseNotes": "* Rotated Screen (Landscape Ads) Support: Added multi-quadrant corner perception across top-left, top-right, bottom-left, and bottom-right corners when width > height\n* Orientation Hash Isolation: VisualPatternCache isolates portrait dHashes from landscape frames to prevent mismatched layout taps\n* Phonetic OCR Shielding: Expanded HUD overlay regex with 'slalus', 'slelus', and phonetic variants to neutralize OCR misreadings of 'Status:'\n* Hard Geometric Exclusion: Blocked clicks in dead center (x: 250..750, y: 100..750) during active ad countdowns\n* Smart Dual-Corner Probing: Dynamic top-right probing at scan 12 and top-left probing at scan 15 adapting dynamically to screen orientation",
+    "versionCode": 34,
+    "versionName": "1.0.33",
+    "tagName": "v1.0.33",
+    "releaseTitle": "AdSkip Pro v1.0.33 - Elimination of Ad Creative Taps & Play Store Escapes",
+    "releaseNotes": "* Elimination of Ad Creative False Positives: Removed mid-screen circular glyph scanning ('Card Mid-Left' & 'Card Mid-Right') in video ads\n* Hard Vertical Band Exclusion: Blocked all clicks in middle screen (normY in 180..820) during active ad countdowns and dismiss phases\n* Purged Corrupted Patterns: Automatically purged 25 corrupt creative/ad-body patterns from Room DB\n* Full Landscape Ad Support: Multi-quadrant corner perception across all 4 quadrants in landscape orientation",
     "apkDownloadUrl": "https://raw.githubusercontent.com/TusharTyagi-63/AdSkipper-App/main/AdSkipper-latest.apk",
     "apkFileName": "AdSkipper-latest.apk",
-    "apkSizeBytes": 48289575,
-    "sha256": "A1CD1EF068E175C28194C1FBA99E15B0FE963ABE5A28AF05383782C3EE8EC502",
-    "publishedAt": "2026-11-06T15:30:00Z"
+    "apkSizeBytes": 48289577,
+    "sha256": "D0258E961D26E59C4C6E5EDED0B9DF01C8B73B573949540D02416D38928DDE17",
+    "publishedAt": "2026-11-12T17:40:00Z"
 }
