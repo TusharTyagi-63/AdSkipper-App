@@ -2,7 +2,7 @@
 
 > High-reliability accessibility automation engine for PocketFM with human-like anti-detection, Google Play sheet dismissal, continuous episode progression, and in-app updates.
 
-[![Release](https://img.shields.io/badge/Release-v1.0.34-purple?style=for-the-badge&logo=android)](version.json)
+[![Release](https://img.shields.io/badge/Release-v1.0.35-purple?style=for-the-badge&logo=android)](version.json)
 [![APK Size](https://img.shields.io/badge/APK%20Size-46.05%20MB-blue?style=for-the-badge)](AdSkipper-latest.apk)
 [![Source Code](https://img.shields.io/badge/Source-AdSkipper-green?style=for-the-badge)](https://github.com/TusharTyagi-63/AdSkipper)
 
@@ -12,7 +12,8 @@
 
 | File | Version | Size | Checksum (SHA-256) | Release Highlights |
 |---|---|---|---|---|
-| **[AdSkipper-latest.apk](AdSkipper-latest.apk)** | `v1.0.34 (Latest)` | 46.05 MB | `4F4D28B5E6F9421A7D6C7F73258DEA379C9FA2C0C5DFBA48FF5D6B706627FD92` | Watchdog Architecture Parity, Sub-50ms Escape Interception (Play Store, Chrome, Share Sheet), Full Unity/BidMachine/Fyber Activity Recognition, Dual-Contrast Inverted Glyph Perception, Calibrated Bezel Hitboxes, Wall-Clock Ad Timer |
+| **[AdSkipper-latest.apk](AdSkipper-latest.apk)** | `v1.0.35 (Latest)` | 46.05 MB | `4DFC0F14DBD2679D9F16682D3B1E13BEC6F5EC988B39E1BD5ECB637E343007EB` | Patient Ad Waiting Protocol, Zero Mid-Video Premature Taps, Automatic Ad Auto-Skip & Completion Detection, Safe End-Card Dismissal, Hard 30s Reward Claim via Global Back |
+| **[AdSkipper-v1.0.35.apk](AdSkipper-v1.0.35.apk)** | `v1.0.35` | 46.05 MB | `4DFC0F14DBD2679D9F16682D3B1E13BEC6F5EC988B39E1BD5ECB637E343007EB` | Milestone build for Patient Ad Waiting Protocol |
 | **[AdSkipper-v1.0.34.apk](AdSkipper-v1.0.34.apk)** | `v1.0.34` | 46.05 MB | `4F4D28B5E6F9421A7D6C7F73258DEA379C9FA2C0C5DFBA48FF5D6B706627FD92` | Milestone build for Watchdog Architecture Parity |
 | **[AdSkipper-v1.0.33.apk](AdSkipper-v1.0.33.apk)** | `v1.0.33` | 46.05 MB | `D0258E961D26E59C4C6E5EDED0B9DF01C8B73B573949540D02416D38928DDE17` | Milestone build for Play Store bug fix |
 | **[AdSkipper-v1.0.32.apk](AdSkipper-v1.0.32.apk)** | `v1.0.32` | 46.05 MB | `A1CD1EF068E175C28194C1FBA99E15B0FE963ABE5A28AF05383782C3EE8EC502` | Milestone build for landscape & discovery fixes |
