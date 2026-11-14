@@ -1,12 +1,12 @@
 {
-    "versionCode": 36,
-    "versionName": "1.0.35",
-    "tagName": "v1.0.35",
-    "releaseTitle": "AdSkip Pro v1.0.35 - Patient Ad Waiting & Auto-Completion Protocol",
-    "releaseNotes": "* Patient Ad Waiting Protocol: Eliminates premature mid-video blind taps (at 14s/18s); allows video ads to play naturally to completion\n* Ad Auto-Completion & Auto-Skip Recognition: Seamlessly recognizes when ads complete or auto-skip on their own and advances immediately\n* End-Card Dismissal & Hard 30s Claim: Inspects for legitimate end-card close buttons (at >=25s) and cleanly issues performGlobalBack() at 30s to claim rewards\n* Mid-Playback Visual Protection: Defers loose visual contrast candidate taps during initial 25s of video playback to prevent false ad creative clicks",
+    "versionCode": 37,
+    "versionName": "1.0.36",
+    "tagName": "v1.0.36",
+    "releaseTitle": "AdSkip Pro v1.0.36 - Active Escape Recovery & Continuous Multi-Episode Unlocking",
+    "releaseNotes": "* Active Escape Recovery & Relaunch: Immediate detection of external app escapes (Play Store, Chrome, Launcher, WhatsApp) with instant back and launch-intent Pocket FM foreground recovery\n* Continuous Multi-Episode Unlocking: Full recognition of success dialog hierarchy (ads_view, main_layout) and accurate batch quota parsing (16 ads) for uninterrupted continuous unlocks\n* Patient Ad Waiting Protocol: Zero blind touches during video playback (<25s); throttled end-card probing (>=25s) and automatic reward claim at 30s\n* Ad Auto-Completion Telemetry: Guarantees ad auto-completion and 30s reward claims update episode and session counters without stalling\n* Ad Container Classification Fix: Comprehensive whitelisting for Unity, InMobi, BidMachine, Fyber, AdMob, AppLovin, IronSource, and MBridge SDKs",
     "apkDownloadUrl": "https://raw.githubusercontent.com/TusharTyagi-63/AdSkipper-App/main/AdSkipper-latest.apk",
     "apkFileName": "AdSkipper-latest.apk",
-    "apkSizeBytes": 48289569,
-    "sha256": "4DFC0F14DBD2679D9F16682D3B1E13BEC6F5EC988B39E1BD5ECB637E343007EB",
-    "publishedAt": "2026-11-13T09:40:00Z"
+    "apkSizeBytes": 48289574,
+    "sha256": "7141EF9EC3AE80D816BB970310C513C7D5CB6ADE9A908370CF491100BDEFF4B5",
+    "publishedAt": "2026-11-14T18:40:00Z"
 }
