@@ -1,12 +1,12 @@
 {
-    "versionCode": 40,
-    "versionName": "1.0.39",
-    "tagName": "v1.0.39",
-    "releaseTitle": "AdSkip Pro v1.0.39 - Instant Static Picture & Banner Ad Skipping",
-    "releaseNotes": "* Instant Static Picture Ad Skipping: Completely eliminates the 20-second video waiting deferral for static/banner interstitial ads, dismissing them immediately on appearance with human-like jitter\n* On-Device Cross Glyph Detector: Direct bitmap pixel contrast scanning reliably identifies standalone '✕' and '+' dismissal crosses across top corners even when rendered without circular badges or text labels\n* Google AdMob Header Companion Matching: Automatically pairs AdMob header elements ('Ad ·', 'Close ad', 'AdChoices') to locate and tap top close buttons with high priority\n* 500ms Fast Watchdog for Static Ads: Accelerates scanning cadence to 500ms during static image ads and reduces fallback back-press timeout to 7-10s instead of 28s\n* Dedicated Vision UI & Autonomous Unlocking: Maintains full on-device ML Kit OCR & shape detection, continuous multi-episode celebration unlocks, and zero cloud dependencies",
+    "versionCode": 41,
+    "versionName": "1.0.40",
+    "tagName": "v1.0.40",
+    "releaseTitle": "AdSkip Pro v1.0.40 - Fixed Screen Lock & User-First Listening Protection",
+    "releaseNotes": "* Fixed Screen Lock & AMOLED ECO Mode: Resolved UI thread crash and added FLAG_KEEP_SCREEN_ON to prevent device display timeout; double-tap unlock is now instantaneous anywhere on the screen with haptic feedback\n* Seamless Automation Passthrough: Added withAutomationBypass so that accessibility frame capture and ad dismissal taps execute cleanly without being intercepted or blocked by the black screen overlay\n* User-First Listening Protection: Completely eliminated unsolicited auto-starting when opening Pocket FM to listen to episodes; engine stays peaceful and IDLE during normal browsing and playback\n* Full Background Battery Optimization: Black Screen ECO mode turns off OLED pixels while ads play, saving maximum battery while keeping continuous episode unlocking active in pockets or bags",
     "apkDownloadUrl": "https://raw.githubusercontent.com/TusharTyagi-63/AdSkipper-App/main/AdSkipper-latest.apk",
     "apkFileName": "AdSkipper-latest.apk",
-    "apkSizeBytes": 47887836,
-    "sha256": "D3D3BFF5B070E15EB26A1706E049F4C46E85ECC7D26CA0956D9E82EC35240481",
-    "publishedAt": "2026-11-15T16:10:00Z"
+    "apkSizeBytes": 47887828,
+    "sha256": "4C73A2F10680FC926981B0185BAF5DE932B21885558E2FC4537BEE4D662B2722",
+    "publishedAt": "2026-11-15T17:30:00Z"
 }
