@@ -2,11 +2,11 @@
     "versionCode": 38,
     "versionName": "1.0.37",
     "tagName": "v1.0.37",
-    "releaseTitle": "AdSkip Pro v1.0.37 - On-Device Vision Human Perception & 100% Autonomous Continuation",
-    "releaseNotes": "* Standalone On-Device Vision Engine: 100% untethered screen vision using on-device ML Kit OCR & shape detection directly in the Android app with zero PC/laptop connection required\n* 100% Ad Skipping Success Rate: Eliminates blind probing completely; only clicks visually confirmed close buttons or issues safe back-press at 28s timeout, completely preventing accidental Play Store/Chrome opens\n* Autonomous Celebration Continuation: Accurately identifies Pocket FM's 'Episodes ... Unlocked' celebration dialog and auto-clicks 'Unlock 2 more Episodes' / ads_view to progress continuously without manual intervention\n* Smart Battery Efficiency (<3-5%/hr): Throttles frame captures and sleeps during the initial 20s of video ad playback; runs fast-path 600ms scans only during active skip/end-card windows\n* Automatic Session Start on Pocket FM: Automatically detects Pocket FM in the foreground and activates automation without requiring manual navigation",
+    "releaseTitle": "AdSkip Pro v1.0.37 - Standalone On-Device Vision Engine & Cyber-Glassmorphic UI Redesign",
+    "releaseNotes": "* Cyber-Glassmorphic UI Redesign: Completely redesigned app interface based on Google Stitch design system with concentric AI radar vision scanner, glowing batch arc progress dial, and live AI perception telemetry cards\n* Standalone On-Device Vision Engine: 100% untethered screen vision using on-device ML Kit OCR & shape detection directly in the Android app with zero PC/laptop connection required\n* 100% Ad Skipping Success Rate: Eliminates blind probing completely; only clicks visually confirmed close buttons or issues safe back-press at 28s timeout, completely preventing accidental Play Store/Chrome opens\n* Autonomous Celebration Continuation: Accurately identifies Pocket FM's 'Episodes ... Unlocked' celebration dialog and auto-clicks 'Unlock 2 more Episodes' / ads_view to progress continuously without manual intervention\n* Smart Battery Efficiency (<3-5%/hr): Throttles frame captures and sleeps during the initial 20s of video ad playback; runs fast-path 600ms scans only during active skip/end-card windows\n* Automatic Session Start on Pocket FM: Automatically detects Pocket FM in the foreground and activates automation without requiring manual navigation",
     "apkDownloadUrl": "https://raw.githubusercontent.com/TusharTyagi-63/AdSkipper-App/main/AdSkipper-latest.apk",
     "apkFileName": "AdSkipper-latest.apk",
-    "apkSizeBytes": 48289568,
-    "sha256": "E4599260D4471884663D2E263BA967D5A6E39B7B82CB90328239890596DD20F2",
-    "publishedAt": "2026-11-15T14:24:00Z"
+    "apkSizeBytes": 48376371,
+    "sha256": "5552D2A73E0836EA912788355A501081F3ACF6866A4482538F3553F5EDFF200E",
+    "publishedAt": "2026-11-15T15:12:00Z"
 }
