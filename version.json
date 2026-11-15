@@ -1,12 +1,12 @@
 {
-    "versionCode": 39,
-    "versionName": "1.0.38",
-    "tagName": "v1.0.38",
-    "releaseTitle": "AdSkip Pro v1.0.38 - Dedicated Vision UI & Streamlined Experience",
-    "releaseNotes": "* Dedicated Vision UI: Completely redesigned interface matching Google Stitch with concentric AI radar vision scanner, glowing batch arc progress dial, and real-time AI perception telemetry\n* Purged Deprecated UI: Completely eliminated old text keywords/triggers, obsolete manual screenshot pinning, fake bot-evasion break alerts, and legacy buttons\n* Standalone On-Device Vision Engine: 100% untethered screen vision using on-device ML Kit OCR & shape detection directly in the Android app with zero PC/laptop connection required\n* 100% Ad Skipping Success Rate: Eliminates blind probing completely; only clicks visually confirmed close buttons or issues safe back-press at 28s timeout, completely preventing accidental Play Store/Chrome opens\n* Autonomous Celebration Continuation: Accurately identifies Pocket FM's 'Episodes ... Unlocked' celebration dialog and auto-clicks 'Unlock 2 more Episodes' / ads_view to progress continuously without manual intervention\n* Smart Battery Efficiency (<3-5%/hr): Throttles frame captures and sleeps during the initial 20s of video ad playback; runs fast-path 600ms scans only during active skip/end-card windows\n* Automatic Session Start on Pocket FM: Automatically detects Pocket FM in the foreground and activates automation without requiring manual navigation",
+    "versionCode": 40,
+    "versionName": "1.0.39",
+    "tagName": "v1.0.39",
+    "releaseTitle": "AdSkip Pro v1.0.39 - Instant Static Picture & Banner Ad Skipping",
+    "releaseNotes": "* Instant Static Picture Ad Skipping: Completely eliminates the 20-second video waiting deferral for static/banner interstitial ads, dismissing them immediately on appearance with human-like jitter\n* On-Device Cross Glyph Detector: Direct bitmap pixel contrast scanning reliably identifies standalone '✕' and '+' dismissal crosses across top corners even when rendered without circular badges or text labels\n* Google AdMob Header Companion Matching: Automatically pairs AdMob header elements ('Ad ·', 'Close ad', 'AdChoices') to locate and tap top close buttons with high priority\n* 500ms Fast Watchdog for Static Ads: Accelerates scanning cadence to 500ms during static image ads and reduces fallback back-press timeout to 7-10s instead of 28s\n* Dedicated Vision UI & Autonomous Unlocking: Maintains full on-device ML Kit OCR & shape detection, continuous multi-episode celebration unlocks, and zero cloud dependencies",
     "apkDownloadUrl": "https://raw.githubusercontent.com/TusharTyagi-63/AdSkipper-App/main/AdSkipper-latest.apk",
     "apkFileName": "AdSkipper-latest.apk",
-    "apkSizeBytes": 47871450,
-    "sha256": "E923FBF2F1DCEE2D8BCD355AFC5E5A5149833BDA3ED89DE6CE504DBD2DFA9174",
-    "publishedAt": "2026-11-15T15:30:00Z"
+    "apkSizeBytes": 47887836,
+    "sha256": "D3D3BFF5B070E15EB26A1706E049F4C46E85ECC7D26CA0956D9E82EC35240481",
+    "publishedAt": "2026-11-15T16:10:00Z"
 }
