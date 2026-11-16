@@ -1,12 +1,12 @@
 {
-    "versionCode": 41,
-    "versionName": "1.0.40",
-    "tagName": "v1.0.40",
-    "releaseTitle": "AdSkip Pro v1.0.40 - Fixed Screen Lock & User-First Listening Protection",
-    "releaseNotes": "* Fixed Screen Lock & AMOLED ECO Mode: Resolved UI thread crash and added FLAG_KEEP_SCREEN_ON to prevent device display timeout; double-tap unlock is now instantaneous anywhere on the screen with haptic feedback\n* Seamless Automation Passthrough: Added withAutomationBypass so that accessibility frame capture and ad dismissal taps execute cleanly without being intercepted or blocked by the black screen overlay\n* User-First Listening Protection: Completely eliminated unsolicited auto-starting when opening Pocket FM to listen to episodes; engine stays peaceful and IDLE during normal browsing and playback\n* Full Background Battery Optimization: Black Screen ECO mode turns off OLED pixels while ads play, saving maximum battery while keeping continuous episode unlocking active in pockets or bags",
+    "versionCode": 42,
+    "versionName": "1.0.41",
+    "tagName": "v1.0.41",
+    "releaseTitle": "AdSkip Pro v1.0.41 - Transparent Touch Lock & Zero-Blink Screen Experience",
+    "releaseNotes": "* Transparent Touch Lock: Eliminated all screen blinking, black overlay flickering, and alpha toggling. The screen remains 100% visible, crisp, and steady at all times\n* Full Touch Protection: Screen touches are completely absorbed so accidental finger or pocket touches do nothing in Pocket FM or running ads\n* Double-Tap Anywhere to Unlock: Double-tapping anywhere on the screen instantly unlocks touch input with double-haptic vibration feedback\n* Seamless Background Dismissal: Automated ad skipping gestures execute through the transparent touch lock with zero visual flicker\n* Sleek Top Status Pill: Compact glassmorphic pill briefly confirms touch lock activation and tap status without blocking content",
     "apkDownloadUrl": "https://raw.githubusercontent.com/TusharTyagi-63/AdSkipper-App/main/AdSkipper-latest.apk",
     "apkFileName": "AdSkipper-latest.apk",
-    "apkSizeBytes": 47887828,
-    "sha256": "4C73A2F10680FC926981B0185BAF5DE932B21885558E2FC4537BEE4D662B2722",
-    "publishedAt": "2026-11-15T17:30:00Z"
+    "apkSizeBytes": 47887832,
+    "sha256": "B3329BE5AAD77AD6E166CD8A2AD0F722B29593A535F47A1C670B36CACA955C4B",
+    "publishedAt": "2026-11-16T10:35:00Z"
 }
