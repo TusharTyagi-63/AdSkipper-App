@@ -1,12 +1,12 @@
 {
-    "versionCode": 42,
-    "versionName": "1.0.41",
-    "tagName": "v1.0.41",
-    "releaseTitle": "AdSkip Pro v1.0.41 - Transparent Touch Lock & Zero-Blink Screen Experience",
-    "releaseNotes": "* Transparent Touch Lock: Eliminated all screen blinking, black overlay flickering, and alpha toggling. The screen remains 100% visible, crisp, and steady at all times\n* Full Touch Protection: Screen touches are completely absorbed so accidental finger or pocket touches do nothing in Pocket FM or running ads\n* Double-Tap Anywhere to Unlock: Double-tapping anywhere on the screen instantly unlocks touch input with double-haptic vibration feedback\n* Seamless Background Dismissal: Automated ad skipping gestures execute through the transparent touch lock with zero visual flicker\n* Sleek Top Status Pill: Compact glassmorphic pill briefly confirms touch lock activation and tap status without blocking content",
+    "versionCode": 43,
+    "versionName": "1.0.42",
+    "tagName": "v1.0.42",
+    "releaseTitle": "AdSkip Pro v1.0.42 - Visual Agent Supervisor Watchdog & Human-Parity Ad Rescue",
+    "releaseNotes": "* Visual Agent Supervisor Watchdog: Independent on-device supervisor running the exact same tech as human visual perception (Hardware Buffer pixel frames + ML Kit On-Device OCR + Contour Geometry)\n* Real-Time Performance & Gap Diagnosis: Evaluates agent latency, accuracy, and isolates failure gaps like decoy ghost taps, stalled static ads, and app escapes\n* Ghost Tap Neutralization: Isolates and blacklists fake creative close buttons within 1.0-2.5s, shifting to genuine SDK corner margins\n* Proactive Static Ad Dismissal: Automatically rescues static picture ads without timers by executing hardware corner taps after 5.5s\n* Auto-Continuation Claiming: Instantly recognizes 'Unlock 2 more Episodes' celebration dialogs and taps the action button to maintain listening flow\n* Instant Escape Recovery: Automatically issues sub-80ms global back gestures if an ad attempts to redirect to Google Play Store or Chrome\n* Real-Time Telemetry HUD: Beautiful glassmorphic supervisor HUD cards on Active Session and Dashboard showing live health %, diagnostics feed, and rescues count",
     "apkDownloadUrl": "https://raw.githubusercontent.com/TusharTyagi-63/AdSkipper-App/main/AdSkipper-latest.apk",
     "apkFileName": "AdSkipper-latest.apk",
-    "apkSizeBytes": 47887832,
-    "sha256": "B3329BE5AAD77AD6E166CD8A2AD0F722B29593A535F47A1C670B36CACA955C4B",
-    "publishedAt": "2026-11-16T10:35:00Z"
+    "apkSizeBytes": 47920604,
+    "sha256": "BE4327FCAAB77FE939075129ABCA0505A0CEB4D7F7DFA5507CAA8560A86EA7F1",
+    "publishedAt": "2026-11-17T15:11:00Z"
 }
