@@ -1,12 +1,12 @@
 {
-    "versionCode": 44,
-    "versionName": "1.0.43",
-    "tagName": "v1.0.43",
-    "releaseTitle": "AdSkip Pro v1.0.43 - InMobi Static/Carousel Ad Parity & Dual-Zone Watchdog Rescue",
-    "releaseNotes": "* InMobi AdChoices Badge Rejection: Eliminates false-positive detection of Google AdChoices (abgc) circular icons in top-right corners, ensuring genuine close glyphs are targeted\n* InMobi Top-Left Skip & Carousel Engine: Direct vision perception and high-contrast corner glyph isolation for InMobi carousel skip buttons at (103, 175) and (84, 312)\n* Dynamic InMobi Detection: Automated classification for InMobiAdActivity and webview ad containers\n* Dual-Zone Watchdog Auto-Rescue: Real-time supervisor detects unhandled InMobi static ads and executes instantaneous Top-Left rescue clicks\n* Immediate Alternate-Corner Fallback: Automatically shifts to opposite top-left corner within 200ms if a top-right dismissal attempt fails on static ads\n* 100% On-Device & Zero-Cloud: All OCR, contour geometry, and supervisor operations run fully offline on the local neural hardware",
+    "versionCode": 45,
+    "versionName": "1.0.44",
+    "tagName": "v1.0.44",
+    "releaseTitle": "AdSkip Pro v1.0.44 - Total Cache Purge & Proactive InMobi Multi-Zone Engine",
+    "releaseNotes": "* Auto-Purge Legacy AdChoices DB Patterns: Automatically purges stale/corrupted top-right AdChoices false-positive records from Room DB upon startup\n* Tier-1 On-the-Fly Cache Eviction: Dynamically intercepts and evicts any legacy AdChoices patterns (normX > 850 && normY < 180) from visual pattern memory\n* Deterministic InMobi Screen Classification: Identifies InMobiAdActivity and unhandled WebView containers before screen evaluation, preventing false transitions\n* Proactive 2.0s/3.5s InMobi Auto-Dismiss: Dispatches direct Top-Left dismiss taps at (103, 175) and (84, 312) after 2.0s without waiting for long timeouts\n* External App Escape Instant Recovery: Detects external shopping/browser redirects (e.g. Myntra) and issues sub-80ms global back recoveries",
     "apkDownloadUrl": "https://raw.githubusercontent.com/TusharTyagi-63/AdSkipper-App/main/AdSkipper-latest.apk",
     "apkFileName": "AdSkipper-latest.apk",
-    "apkSizeBytes": 47920588,
-    "sha256": "08ABAEE54AC7869F6511CF4589E8EC31BE187B4E9BCD57B260F7BA4C90A7A21D",
-    "publishedAt": "2026-11-19T09:05:00Z"
+    "apkSizeBytes": 47920596,
+    "sha256": "E334B73E6E1FC0D41713B9C2B194160F992F677EA13F714821F0EA707C40BC30",
+    "publishedAt": "2026-11-19T09:26:00Z"
 }
